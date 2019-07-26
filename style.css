@@ -1,0 +1,13 @@
+body {
+  background-color: #f06d06;
+  font-family: Helvetica;
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+  
+}
+
+div {
+  text-align: center
+}
+
